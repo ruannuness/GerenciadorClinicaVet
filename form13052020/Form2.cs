@@ -14,6 +14,8 @@ namespace form13052020
 
     public partial class Form2 : Form
     {
+
+        animal cachorro;
         public Form2()
         {
             InitializeComponent();
@@ -48,20 +50,13 @@ namespace form13052020
         private void btn_cadastrar_Click(object sender, EventArgs e)
         {
 
-            animal cachorro = new animal();
-            animal gato = new animal();
-            cachorro.nomeanimal = "";
-            cachorro.especieanimal = "";
+            cachorro = new animal(txb_nomeanimal, txb_nomeproprietario, txb_racaanimal);
 
-
-            
-            string nome = txb_nomeproprietario.Text;
-            cachorro.nomeanimal = txb_nomeanimal.Text;
+                        
             string telefone = txb_telefone.Text;
-            string racaanimal = txb_racaanimal.Text;
 
 
-            lst_cadastro.Items.Add("|Nome : " + nome + " | Nome do Animal: " + cachorro.nomeanimal + " | Raça do Animal : " + racaanimal + " | Telefone para Contato : " + telefone);
+            lst_cadastro.Items.Add("|Nome do Responsável: " + txb_nomeproprietario + " | Nome do Animal: " + txb_nomeanimal + " | Raça do Animal : " + txb_racaanimal + " | Telefone para Contato : " + telefone);
         }
 
         private void label5_Click(object sender, EventArgs e)

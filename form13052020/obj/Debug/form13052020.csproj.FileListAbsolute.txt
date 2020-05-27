@@ -10,3 +10,15 @@ C:\Users\Ruan\source\repos\form13052020\form13052020\obj\Debug\form13052020.exe
 C:\Users\Ruan\source\repos\form13052020\form13052020\obj\Debug\form13052020.pdb
 C:\Users\Ruan\source\repos\form13052020\form13052020\obj\Debug\form13052020.Form2.resources
 C:\Users\Ruan\source\repos\form13052020\form13052020\obj\Debug\form13052020.loginpage.resources
+C:\Users\Ruan\Documents\GitHub\GerenciadorClinicaVet\form13052020\bin\Debug\form13052020.exe.config
+C:\Users\Ruan\Documents\GitHub\GerenciadorClinicaVet\form13052020\bin\Debug\form13052020.exe
+C:\Users\Ruan\Documents\GitHub\GerenciadorClinicaVet\form13052020\bin\Debug\form13052020.pdb
+C:\Users\Ruan\Documents\GitHub\GerenciadorClinicaVet\form13052020\obj\Debug\form13052020.csprojAssemblyReference.cache
+C:\Users\Ruan\Documents\GitHub\GerenciadorClinicaVet\form13052020\obj\Debug\form13052020.Form1.resources
+C:\Users\Ruan\Documents\GitHub\GerenciadorClinicaVet\form13052020\obj\Debug\form13052020.Form2.resources
+C:\Users\Ruan\Documents\GitHub\GerenciadorClinicaVet\form13052020\obj\Debug\form13052020.loginpage.resources
+C:\Users\Ruan\Documents\GitHub\GerenciadorClinicaVet\form13052020\obj\Debug\form13052020.Properties.Resources.resources
+C:\Users\Ruan\Documents\GitHub\GerenciadorClinicaVet\form13052020\obj\Debug\form13052020.csproj.GenerateResource.cache
+C:\Users\Ruan\Documents\GitHub\GerenciadorClinicaVet\form13052020\obj\Debug\form13052020.csproj.CoreCompileInputs.cache
+C:\Users\Ruan\Documents\GitHub\GerenciadorClinicaVet\form13052020\obj\Debug\form13052020.exe
+C:\Users\Ruan\Documents\GitHub\GerenciadorClinicaVet\form13052020\obj\Debug\form13052020.pdb

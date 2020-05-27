@@ -50,13 +50,22 @@ namespace form13052020
         private void btn_cadastrar_Click(object sender, EventArgs e)
         {
 
-            cachorro = new animal(txb_nomeanimal, txb_nomeproprietario, txb_racaanimal);
 
-                        
+            string na, np, ra;
+
+            na = txb_nomeanimal.Text;
+
+            np = txb_nomeproprietario.Text;
+
+            ra = txb_racaanimal.Text;
+
+            cachorro = new animal(na, np, ra);
+
+
             string telefone = txb_telefone.Text;
 
 
-            lst_cadastro.Items.Add("|Nome do Responsável: " + txb_nomeproprietario + " | Nome do Animal: " + txb_nomeanimal + " | Raça do Animal : " + txb_racaanimal + " | Telefone para Contato : " + telefone);
+            lst_cadastro.Items.Add("|Nome do Responsável: " + np + " | Nome do Animal: " + na + " | Raça do Animal : " + ra + " | Telefone para Contato : " + telefone);
         }
 
         private void label5_Click(object sender, EventArgs e)
